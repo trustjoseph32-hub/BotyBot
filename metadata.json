@@ -1,0 +1,5 @@
+{
+  "name": "BingX AI Bot Terminal",
+  "description": "A sophisticated trading bot dashboard that simulates pending order strategies with AI-powered risk assessment using Gemini. Features a simulated market environment for testing strategies safely.",
+  "requestFramePermissions": []
+}
